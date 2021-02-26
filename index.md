@@ -11,7 +11,7 @@ _Sociologo y datero_ <br>
 **Coordinador Red Nacional de Observatorios** | [ONC](https://onc.org.mx) / _(Enero 2020 - Septiembre 2020)_ <br>
 <br><br>
 
-**Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_
+**Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_<br>
 
     <br><br>
 
