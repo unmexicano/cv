@@ -12,8 +12,7 @@ _Sociologo y datero_ <br>
 <br><br>
 
 **Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_<br>
-
-    <br><br>
+<br><br>
 
 
 
