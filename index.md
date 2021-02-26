@@ -7,11 +7,16 @@ _Sociologo y datero_ <br>
 
 **Subdirector de ciencia de datos** [ONC](https://onc.org.mx) / _(Septiembre 2020 - Present)_ <br>
 <br><br>
--Observatorio de la Ciudad de México
--Laboratorio de Seguridad Ciudadana del Estado de México
--Equipo de datos del ONC
--Encuesta de victimización de la Ciudad de México ENVA-CDMX 2020
--[DelitosMéxico](https://www.delitosmexico.onc.org.mx/)
+-Observatorio de la Ciudad de México<br>
+<br><br>
+-Laboratorio de Seguridad Ciudadana del Estado de México<br>
+<br><br>
+-Equipo de datos del ONC<br>
+<br><br>
+-Encuesta de victimización de la Ciudad de México ENVA-CDMX 2020<br>
+<br><br>
+-[DelitosMéxico](https://www.delitosmexico.onc.org.mx/)<br>
+<br><br>
 **Coordinador Red Nacional de Observatorios** | [ONC](https://onc.org.mx) / _(Enero 2020 - Septiembre 2020)_ <br>
 <br><br>
 -Transferencia de capacidades a miembros de sociedad civil
