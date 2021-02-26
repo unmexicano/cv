@@ -6,25 +6,12 @@ _Sociologo y datero_ <br>
 ## Experiencia
 
 **Subdirector de ciencia de datos** [ONC](https://onc.org.mx) / _(Septiembre 2020 - Present)_ <br>
-Coordino un equipo chido.
-  - cdmx
-  - lsc
 <br><br>
 
 **Coordinador Red Nacional de Observatorios** | [ONC](https://onc.org.mx) / _(Enero 2020 - Septiembre 2020)_ <br>
-  - Capacitaciones
-  - Encuestas
-  - Policias
-  - Cosas chidas
-  - 
 <br><br>
 
 **Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_
-- Capacitaciones
-  - Encuestas
-  - Policias
-  - Cosas chidas
-  -Reportes
 
     <br><br>
 
