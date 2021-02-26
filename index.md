@@ -7,20 +7,30 @@ _Sociologo y datero_ <br>
 
 **Subdirector de ciencia de datos** [ONC](https://onc.org.mx) / _(Septiembre 2020 - Present)_ <br>
 <br><br>
-
+-Observatorio de la Ciudad de México
+-Laboratorio de Seguridad Ciudadana del Estado de México
+-Equipo de datos del ONC
+-Encuesta de victimización de la Ciudad de México ENVA-CDMX 2020
+-[DelitosMéxico](https://www.delitosmexico.onc.org.mx/)
 **Coordinador Red Nacional de Observatorios** | [ONC](https://onc.org.mx) / _(Enero 2020 - Septiembre 2020)_ <br>
 <br><br>
+-Transferencia de capacidades a miembros de sociedad civil
+-Capacitaciones dentro del modelo Problem Oriented Policing a elementos de instituciones de seguridad
+-Diseño y levantamiento de encuestas de victimizacion a nivel municipal
+-Generación y diseño de productos data-driven
 
 **Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_<br>
 <br><br>
-
+-Redacción de artículos de opinión
+-Generacion de reportes de incidencia delictiva
+-Data cleaning & Data Viz
 
 
 **Quieres leerme?**
-<br> [Procuro guardar mis articulos en este enlace](https://github.com/unmexicano/articulospublicados).
+<br> [Procuro guardar mis artículos en este enlace](https://github.com/unmexicano/articulospublicados).
 <br><br>
 
-## 💬 Manejo
+## 💬 Utilizo(por ahora)
 
 **Qgis**  <br>
 **Geoda** <br>
@@ -45,15 +55,15 @@ _Sociologo y datero_ <br>
 **Ruso**: B1 
 <br><br>
 
-## 🎓 Experiencia Academica
+## 🎓 Experiencia Académica
 
 
 **Licenciatura** Sociologia<br>
 [Universidad Autonoma Metropolitana|Unidad Xochimilco](https://www.xoc.uam.mx/) - CDMX, 🇲🇽
 
 **Estudios** Ciencias Politicas y Administracion Publica<br>
-[Universidad Nacional Autonoma de Mexico|Facultad de Ciencias Politicas y Sociales](www.politicas.unam.mx)  - CDMX, 🇲🇽
+[Universidad Nacional Autonoma de Mexico|Facultad de Ciencias Políticas y Sociales](www.politicas.unam.mx)  - CDMX, 🇲🇽
 
 **Semestre** Intercambio Academico<br>
-[Russian State Social University](https://rgsu.net/) - Moscu, 🇷🇺
+[Russian State Social University](https://rgsu.net/) - Moscú, 🇷🇺
 
