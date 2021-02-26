@@ -1,4 +1,3 @@
-# Angel Serrano Galvez
 _Sociologo y datero_ <br>
 
 [Email](mailto:angelserranogs@gmail.com) / [LinkedIn](https://www.linkedin.com/in/angel-serrano-galvez/) / [GitHub](https://github.com/unmexicano/) / [Twitter](https://twitter.com/datero_mexa)
