@@ -19,6 +19,7 @@ _Sociologo y datero_ <br>
 -Capacitaciones dentro del modelo Problem Oriented Policing a elementos de instituciones de seguridad<br>
 -Diseño y levantamiento de encuestas de victimizacion a nivel municipal<br>
 -Generación y diseño de productos data-driven<br>
+<br><br>
 
 **Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_<br>
 
