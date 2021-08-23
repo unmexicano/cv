@@ -4,7 +4,7 @@ _Sociologo y datero_ <br>
 
 ## Experiencia
 
-**Subdirector de ciencia de datos** [ONC](https://onc.org.mx) / _(Septiembre 2020 - Present)_ <br>
+**Subdirector de ciencia de datos** [ONC](https://onc.org.mx/miembro/AS) / _(Septiembre 2020 - Presente)_ <br>
 
 -Observatorio de la Ciudad de México<br>
 -Laboratorio de Seguridad Ciudadana del Estado de México<br>
@@ -14,16 +14,16 @@ _Sociologo y datero_ <br>
 <br><br>
 **Coordinador Red Nacional de Observatorios** | [ONC](https://onc.org.mx) / _(Enero 2020 - Septiembre 2020)_ <br>
 <br><br>
--Transferencia de capacidades a miembros de sociedad civil<br>
--Capacitaciones dentro del modelo Problem Oriented Policing a elementos de instituciones de seguridad<br>
--Diseño y levantamiento de encuestas de victimizacion a nivel municipal<br>
+-Transferencia de capacidades a miembros de sociedad civil interesados en el análisis de la seguridad en sus municipios y entidades a partir de datos e información pública<br>
+-Capacitaciones dentro del modelo "Problem Oriented Policing" a elementos de instituciones de seguridad pública<br>
+-Diseño y levantamiento de encuestas de victimización a nivel municipal<br>
 -Generación y diseño de productos data-driven<br>
 <br><br>
 
 **Investigador**   [ONC](https://onc.org.mx)/ _(Febrero 2018 - Diciembre 2019)_<br>
 
 -Redacción de artículos de opinión<br>
--Generacion de reportes de incidencia delictiva<br>
+-Generación de reportes de incidencia delictiva<br>
 -Data cleaning & Data Viz<br>
 <br><br>
 
@@ -37,11 +37,11 @@ _Sociologo y datero_ <br>
 **Qgis**  <br>
 **Geoda** <br>
 **SPSS** <br>
-**Microsoft Office**: Excel, Powerpoint, Word <br>
+**Microsoft Office**<br>
 **Tableau** <br>
 
 ## 💬 Programo
-**Python**: Pandas, Numpy ,Matplotlib, SciPy, Geopandas, Bokeh, DjiTelloPy, BS4, Dash... <br>
+**Python**: Pandas, Numpy ,Matplotlib, SciPy, Geopandas, Bokeh, DjiTelloPy, BS4, Dash...(y lo que se ofrezca) <br>
 **Aprendiendo**: R, Julia, Rust
 <br><br>
 
@@ -61,11 +61,11 @@ _Sociologo y datero_ <br>
 
 
 **Licenciatura** Sociologia<br>
-[Universidad Autonoma Metropolitana|Unidad Xochimilco](https://www.xoc.uam.mx/) - CDMX, 🇲🇽
+[Universidad Autónoma Metropolitana|Unidad Xochimilco](https://www.xoc.uam.mx/) - CDMX, 🇲🇽
 
-**Estudios** Ciencias Politicas y Administracion Publica<br>
-[Universidad Nacional Autonoma de Mexico|Facultad de Ciencias Políticas y Sociales](www.politicas.unam.mx)  - CDMX, 🇲🇽
+**Estudios** Ciencias Políticas y Administración Pública<br>
+[Universidad Nacional Autónoma de México|Facultad de Ciencias Políticas y Sociales](www.politicas.unam.mx)  - CDMX, 🇲🇽
 
-**Semestre** Intercambio Academico<br>
+**Semestre** Intercambio Académico<br>
 [Russian State Social University](https://rgsu.net/) - Moscú, 🇷🇺
 
