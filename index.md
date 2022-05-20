@@ -29,7 +29,7 @@ _Sociologo y datero_ <br>
 
 
 **¿Quieres leerme?**
-<br> [Procuro guardar mis artículos en este enlace](https://github.com/unmexicano/articulospublicados).
+<br> [Procuro guardar mis artículos en este enlace](https://github.com/unmexicano/cv/blob/gh-pages/articulos.md).
 <br><br>
 
 ## 💬 Utilizo(por ahora)
@@ -37,19 +37,25 @@ _Sociologo y datero_ <br>
 **Qgis**  <br>
 **Geoda** <br>
 **SPSS** <br>
+**STATA** <br>
 **Microsoft Office**<br>
 **Tableau** <br>
 
 ## 💬 Programo
 **Python**: Pandas, Numpy ,Matplotlib, SciPy, Geopandas, Bokeh, DjiTelloPy, BS4, Dash...(y lo que se ofrezca) <br>
-**Aprendiendo**: R, Julia, Rust
+**R** <br>
+**SQL** <br>
+**Aprendiendo**: Julia y Rust
 <br><br>
 
 ## 💬 Enseño
 **Qgis** <br>
 **Python**
 <br><br>
-  
+
+## 💬 Aprendo
+**Python, R, Scrum, metodologías agiles, project management** <br>
+<br><br>  
 ## 💬 Idiomas
 
 **Español**: Nativo <br>
@@ -59,6 +65,8 @@ _Sociologo y datero_ <br>
 
 ## 🎓 Experiencia Académica
 
+**Maestria** Administración Pública(En curso)<br>
+[Instituto Tecnológico y de Estudios Superiores de Monterrey|Escuela de Gobierno y Transformación Pública ](egobiernoytp.mx) - CDMX, 🇲🇽
 
 **Licenciatura** Sociologia<br>
 [Universidad Autónoma Metropolitana|Unidad Xochimilco](https://www.xoc.uam.mx/) - CDMX, 🇲🇽
